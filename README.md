@@ -1,1 +1,1 @@
-# Saravanan_Satsure_NDVI_Assesment
+# NDVI from Sentinel data product
